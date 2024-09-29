@@ -1,0 +1,2 @@
+virtual dom, fibre, reconciliation
+https://github.com/acdlite/react-fiber-architecture
