@@ -9,4 +9,4 @@ function Profile () {
     return <div>Welcome {user.username}</div>
 }
 
-export default Profile;
+export default Profile
